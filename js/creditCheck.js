@@ -1,7 +1,6 @@
 exports.creditCheck = function(str) {
         str = str.split('')
         let double = 0
-        let sum = []
         let newNumber = []
         let number = ''
         let converter = []
